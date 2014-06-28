@@ -1,0 +1,22 @@
+{
+  "name": "angular-require-seeder",
+  "version": "0.1",
+  "authors": [
+    "Kier Borromeo",
+    "SRPH"
+  ],
+  "keywords": [
+    "angularjs",
+    "requirejs",
+    "seeder"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/srph/angular-require-seeder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
