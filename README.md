@@ -14,3 +14,34 @@ A simple implementation of AngularJS with RequireJS. Often, a medium-large scali
 ```bower install```
 
 3. And you're good to go!
+
+### Structure ###
+
+Further explanation will be provided halfway the final version
+
+```
+	- app/
+		- components/
+			- _index.js
+			- controller.js
+			- directives.js
+			- services.js
+			- utils.js
+		- controllers/
+			- alpha.js
+		- directives/
+			- example.js
+		- services/
+			- gamma.js
+		- utils/
+			- constants/
+			- states/
+			- _constants.js
+			- _location.js
+			- _states.js
+		- views/
+		- app.js
+		- bootstrap.js
+	- bower.json
+	- index.html
+```
