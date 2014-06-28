@@ -1,16 +1,16 @@
 AngularJS with RequireJS
 =====
 
-A simple implementation of AngularJS with RequireJS. Often, a medium-large scaling application gets harder to maintain if it has shitty structure. Well, this is how I solve such a starting problem.
+A simple implementation of AngularJS with RequireJS. Often, a medium-large scaling application gets harder to maintain if it has shitty structure. This also leads to slower workflow and developer demotivation. Well, this is how I solved such a bothering problem.
 
 ### Installation ###
 
 1. Clone
 
-	git clone https://github.com/srph/angular-require-seeder.git
+```git clone https://github.com/srph/angular-require-seeder.git```
 
 2. Install Bower dependencies
 
-	bower install
+```bower install```
 
 3. And you're good to go!
